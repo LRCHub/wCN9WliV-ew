@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "月に吠える",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-07T16:01:38.856985Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月に吠える",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_月に吠える_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月に吠える",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_月に吠える_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月に吠える",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_月に吠える_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月に吠える - Howl at the Moon",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_月に吠える_-_Howl_at_the_Moon_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月に吠える",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_月に吠える_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "月に吠える",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_月に吠える_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "月に吠える; Tsuki ni hoeru",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_月に吠える;_Tsuki_ni_hoeru_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月に吠える",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_月に吠える_ヨルシカ.txt"
+    }
+  ]
+}
